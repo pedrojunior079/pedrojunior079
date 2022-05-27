@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Arns Junior</h1>
-<h3 align="center">Programador Frontend</h3>
 
 - 🌱 Estudando Frameworks **Node, Vue, React, participei da Semana Spring React que ocorreu no dia 9 a 13 de maio**
 
