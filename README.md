@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Arns Junior</h1>
 
-- 🌱 Estudando Frameworks **Node, Vue, React, participei da Semana Spring React que ocorreu no dia 9 a 13 de maio**
+- 🌱 Estudando Frameworks **Node, Vue, React, Angular, participei da Semana Spring React que ocorreu no dia 9 a 13 de maio**
 
-- Semana Spring React 8.0 [DSMovie](https://pedrojunior079.github.io/dsmovie/)
+- Semana Spring React 8.0 [DSMovie](https://dsmoviepj.netlify.app/)
 
 - 📝 Meu Blog [https://linuxprogramacao.blogspot.com/](https://linuxprogramacao.blogspot.com/)
 
