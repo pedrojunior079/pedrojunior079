@@ -4,7 +4,7 @@
 
 - Semana Spring React 8.0 [DSMovie](https://dsmoviepj.netlify.app/)
 
-- Semana Spring React 10 no dia 5 a 11 de Setembro [DSMeta](https://dsmeta-pedrojr.netlify.app/)
+- Semana Spring React 10 no dia 5 a 11 de Setembro [DSMeta](https://dsmeta-pedrojr.netlify.app/) atraves da (https://www.instagram.com/devsuperior.ig/)
 
 - 📝 Meu Blog [https://linuxprogramacao.blogspot.com/](https://linuxprogramacao.blogspot.com/)
 
