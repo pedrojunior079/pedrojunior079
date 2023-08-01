@@ -1,10 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Arns Junior</h1>
 
-- 🌱 Estudando Frameworks **Node, Vue, React, Angular, participei da Semana Spring React que ocorreu no dia 9 a 13 de maio**
+- Sou formado no curso de Ciências da Computação pela UNESC - Universidade do Extremo Sul Catarinense em setembro de 2020.
+
+- 🌱 Estudando Frameworks **Node, Vue, React, Angular, participei da Semana Spring React que ocorreu no dia 9 a 13 de maio de 2022**
 
 - Semana Spring React 8.0 [DSMovie](https://dsmoviepj.netlify.app/)
 
-- Semana Spring React 10 no dia 5 a 11 de Setembro [DSMeta](https://github.com/pedrojunior079/dsmeta)
+- Semana Spring React 10 no dia 5 a 11 de Setembro de 2022 [DSMeta](https://github.com/pedrojunior079/dsmeta)
 
 - 📝 Meu Blog [https://linuxprogramacao.blogspot.com/](https://linuxprogramacao.blogspot.com/)
 
