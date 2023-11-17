@@ -3,7 +3,7 @@
 - Sou formado no curso de Ciências da Computação pela UNESC - Universidade do Extremo Sul Catarinense em setembro de 2020.
 - Meu passatempo gosto de assistir series e filmes no netflix e videos no Youtube
 
-- :computer: Estudando Frameworks como: **Node, Vue, React, Angular, Next**
+- :computer: Estudando Frameworks como: **Node, Vue, React, Angular, Next, Laravel**
 - :computer: Conhecimento em HTML5, CSS3 e JavaScript
 - :computer: Participei da Semana Spring React que ocorreu no dia 9 a 13 de maio de 2022
 
