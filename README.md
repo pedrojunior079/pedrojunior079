@@ -1,22 +1,22 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Arns Junior</h1>
 
-- Sou formado no curso de Ciências da Computação pela UNESC - Universidade do Extremo Sul Catarinense em setembro de 2020.
+Sou formado no curso de Ciências da Computação pela UNESC - Universidade do Extremo Sul Catarinense em setembro de 2020.
 - Meu passatempo gosto de assistir series e filmes no netflix e videos no Youtube
 
-- :computer: Estudando Frameworks como: **Node, Vue, React, Angular, Next, Laravel**
-- :computer: Conhecimento em HTML5, CSS3 e JavaScript
-- :computer: Participei da Semana Spring React que ocorreu no dia 9 a 13 de maio de 2022
+ - :computer: Estudando Frameworks como: **Node, Vue, React, Angular, Next, Laravel**
+ - :computer: Conhecimento em HTML5, CSS3 e JavaScript
+ - :computer: Participei da Semana Spring React que ocorreu no dia 9 a 13 de maio de 2022
 
-- :computer: Semana Spring React 8.0 [DSMovie](https://dsmoviepj.netlify.app/)
+ - :computer: Semana Spring React 8.0 [DSMovie](https://dsmoviepj.netlify.app/)
 
-- :computer: Semana Spring React 10 no dia 5 a 11 de Setembro de 2022 [DSMeta](https://github.com/pedrojunior079/dsmeta)
-- :computer: Semana Imersão Dev 13 a 17 de Novembro de 2023 [ImersaoDev](https://github.com/pedrojunior079/ImersaoDev) com certificado
+ - :computer: Semana Spring React 10 no dia 5 a 11 de Setembro de 2022 [DSMeta](https://github.com/pedrojunior079/dsmeta)
+ - :computer: Semana Imersão Dev 13 a 17 de Novembro de 2023 [ImersaoDev](https://github.com/pedrojunior079/ImersaoDev) com certificado
 
-- :page_with_curl: Meu Blog [https://linuxprogramacao.blogspot.com/](https://linuxprogramacao.blogspot.com/)
+ - :page_with_curl: Meu Blog [https://linuxprogramacao.blogspot.com/](https://linuxprogramacao.blogspot.com/)
 
-- :email: Email para contato **arnsjunior.pedro076@gmail.com**
+ - :email: Email para contato **arnsjunior.pedro076@gmail.com**
 
-- :page_with_curl: Meu perfil no Linkedin [https://www.linkedin.com/in/pedro-arns-junior-5473331b7/](https://www.linkedin.com/in/pedro-arns-junior-5473331b7/)
+ - :page_with_curl: Meu perfil no Linkedin [https://www.linkedin.com/in/pedro-arns-junior-5473331b7/](https://www.linkedin.com/in/pedro-arns-junior-5473331b7/)
 
 ### :computer: IDEs/Editores
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
