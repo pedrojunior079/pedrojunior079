@@ -13,7 +13,7 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - :computer: Semana Spring React 10 no dia 5 a 11 de Setembro de 2022 [DSMeta](https://github.com/pedrojunior079/dsmeta)
  - :computer: Semana Imersão Dev 13 a 17 de Novembro de 2023 [ImersaoDev](https://github.com/pedrojunior079/ImersaoDev) com certificado
   
- - :page_with_curl: Meu Blog [https://linuxprogramacao.blogspot.com/](https://linuxprogramacao.blogspot.com/)
+ - :page_with_curl: Meu Blog [https://techprogramacao.blogspot.com/](https://techprogramacao.blogspot.com/)
 
  - :email: Email para contato **arnsjunior.pedro076@gmail.com**
 
