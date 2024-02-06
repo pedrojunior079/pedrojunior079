@@ -8,10 +8,11 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - 💻 Conhecimento em Frameworks como: Node, Vue, React, Angular, Next, Laravel 
  - :computer: Participei da Semana Spring React que ocorreu no dia 9 a 13 de maio de 2022
 
- - :computer: Semana Spring React 8.0 [DSMovie](https://dsmoviepj.netlify.app/)
+ - :computer: Semana Spring React 8.0 9 a 15 de maio de 2022, evento organizado pela DevSuperior. [DSMovie](https://dsmoviepj.netlify.app/) com certificado 
 
  - :computer: Semana Spring React 10 no dia 5 a 11 de Setembro de 2022 [DSMeta](https://github.com/pedrojunior079/dsmeta)
- - :computer: Semana Imersão Dev 13 a 17 de Novembro de 2023 [ImersaoDev](https://github.com/pedrojunior079/ImersaoDev) com certificado
+ - :computer: Semana 1a Imersão Front-End HTML CSS e Javscript da alura que ocorreu nos dias 22 a 26 de Janeiro onde foi criado um clone da pagina do Spotify [ImersaoFrontEnd](https://github.com/pedrojunior079/spotify-imersao-alura) com certificado
+ - :computer: Semana 1a Imersão Front-End usando React da alura que ocorreu nos dias 22 a 26 de Janeiro onde foi criado um clone da pagina do Spotify [ImersaoFrontEnd](https://github.com/pedrojunior079/spotify-react) com certificado
   
  - :page_with_curl: Meu Blog [https://techprogramacao.blogspot.com/](https://techprogramacao.blogspot.com/)
 
