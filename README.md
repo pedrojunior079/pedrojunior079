@@ -4,13 +4,18 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - Meu passatempo gosto de assistir series e filmes no netflix e videos no Youtube
 
  
- - :computer: Conhecimento em HTML5, CSS3, JavaScript, PHP e Banco de Dados
+ - :computer: Conhecimento em HTML5, CSS3, JavaScript, Typescript, Python, PHP e Banco de Dados
  - 💻 Conhecimento em Frameworks como: Node, Vue, React, Angular, Next, Laravel 
  - :computer: Semana Spring React 8.0 9 a 15 de maio de 2022, evento organizado pela DevSuperior. [DSMovie](https://dsmoviepj.netlify.app/) com certificado 
  - :computer: Semana Spring React 10 no dia 5 a 11 de Setembro de 2022 [DSMeta](https://github.com/pedrojunior079/dsmeta)
  - :computer: Semana 1a Imersão Front-End HTML CSS e Javscript da alura que ocorreu nos dias 22 a 26 de Janeiro onde foi criado um clone da pagina do Spotify [ImersaoFrontEnd](https://github.com/pedrojunior079/spotify-imersao-alura) com certificado
  - :computer: Semana 1a Imersão Front-End usando React da alura que ocorreu nos dias 22 a 26 de Janeiro onde foi criado um clone da pagina do Spotify [ImersaoFrontEnd](https://github.com/pedrojunior079/spotify-react) com certificado
-  
+ - :computer: Repositório do Curso HTML 5 Básico 100% gratuito da plataforma refatorando.com.br [Curso HTML 5 Básico](https://github.com/pedrojunior079/CursoHTML5) com certificado
+ - :computer: Repositório do Curso Básico de CSS3 100% gratuito da plataforma refatorando.com.br [Curso Básico de CSS3](https://github.com/pedrojunior079/CursoCSS3) com certificado
+ - :computer:Projeto de Login criado através do curso de CSS3 da plataforma refatornado.com.br [Projeto de Login](https://github.com/pedrojunior079/ProjetoLogin) 
+ - :computer: Repositório do Curso Introdução ao Javascript 100% gratuito da plataforma refatorando.com.br [Curso Introdução ao Javascript](https://github.com/pedrojunior079/CursoJavaScript) com certificado
+ - :computer: Repositório do Curso Python Básico 100% Gratuito pela plataforma refatorando.com.br [Curso Python Básico](https://github.com/pedrojunior079/CursoPython) com certificado
+    
  - :page_with_curl: Meu Blog [https://techprogramacao.blogspot.com/](https://techprogramacao.blogspot.com/)
 
  - :email: Email para contato **arnsjunior.pedro076@gmail.com**
