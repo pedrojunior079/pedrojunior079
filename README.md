@@ -15,6 +15,8 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - :computer:Projeto de Login criado através do curso de CSS3 da plataforma refatornado.com.br [Projeto de Login](https://github.com/pedrojunior079/ProjetoLogin) 
  - :computer: Repositório do Curso Introdução ao Javascript 100% gratuito da plataforma refatorando.com.br [Curso Introdução ao Javascript](https://github.com/pedrojunior079/CursoJavaScript) com certificado
  - :computer: Repositório do Curso Python Básico 100% Gratuito pela plataforma refatorando.com.br [Curso Python Básico](https://github.com/pedrojunior079/CursoPython) com certificado
+ - :computer: Imersão Dev Google Gemini 100% Gratuito [Imersão Dev Google Gemini 100% Gratuito](https://imersao-lime-mu.vercel.app/) projeto desenvolvido no curso de um site de busca com certificado
+ - :computer: Repósitorio do Imersão Dev Google Gemini 100% Gratuito [Imersão Dev Google Gemini 100% Gratuito](https://github.com/pedrojunior079/Imersao)  com certificado
     
  - :page_with_curl: Meu Blog [https://techprogramacao.blogspot.com/](https://techprogramacao.blogspot.com/)
 
