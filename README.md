@@ -24,6 +24,7 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - :email: Email para contato **arnsjunior.pedro076@gmail.com**
 
  - :page_with_curl: Meu perfil no Linkedin [https://www.linkedin.com/in/pedro-arns-junior/](https://www.linkedin.com/in/pedro-arns-junior/)
+ - :page_with_curl: Meu portfolio [https://portfolio-pedrojr.vercel.app/](https://portfolio-pedrojr.vercel.app/)
 
 ### :computer: IDEs/Editores
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
