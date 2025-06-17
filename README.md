@@ -18,6 +18,7 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - :computer: Imersão Dev Google Gemini 100% Gratuito [Site de Pesquisa de Tecnolologias em TI](https://imersao-lime-mu.vercel.app/) projeto desenvolvido no curso de um site de busca com certificado
  - :computer: Repósitorio do Imersão Dev Google Gemini 100% Gratuito [Imersão Dev Google Gemini 100% Gratuito](https://github.com/pedrojunior079/Imersao)  com certificado
  - :computer: Repósitorio do Bootcamp QA automation evento realizado pela escola de cursos qazando.com.br 100% onine e 100% Gratuito [Bootcamp QA automation 100% Gratuito](https://github.com/pedrojunior079/QAautomation)  com certificado
+ - :computer: Curso Introdutução ao Marketing Digital da Escola Britanica de Artes Criativas e Tecnologia:(https://ebaconline.com.br/)  100% onine e 100% Gratuito que durou 1 mes [Certificado](https://github.com/pedrojunior079/certificados/blob/main/ebac-certificateIntroducao-ao-MarketingDigital.pdf)  
     
  - :page_with_curl: Meu Blog [https://techprogramacao.blogspot.com/](https://techprogramacao.blogspot.com/)
 
