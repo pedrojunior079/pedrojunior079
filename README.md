@@ -20,7 +20,8 @@ Sou formado no curso de Ciências da Computação pela UNESC - Universidade do E
  - :computer: Repósitorio do Bootcamp QA automation evento realizado pela escola de cursos qazando.com.br 100% onine e 100% Gratuito [Bootcamp QA automation 100% Gratuito](https://github.com/pedrojunior079/QAautomation)  com certificado
  - :computer: Curso Introdutução ao Marketing Digital da Escola Britanica de Artes Criativas e Tecnologia:(https://ebaconline.com.br/)  100% onine e 100% Gratuito que durou 1 mes [Certificado](https://github.com/pedrojunior079/certificados/blob/main/ebac-certificateIntroducao-ao-MarketingDigital.pdf)
  - :computer: Repósitorio do Bootcamp QA Turbo evento realizado pela escola de cursos qazando.com.br 100% onine e 100% Gratuito que ocorreu nos dias 09 a 17 de Junho de 2025 [Bootcamp QA Turbo 100% Gratuito](https://github.com/pedrojunior079/QATurbo)  com certificado
- - :computer: WWBINARIO QA COM IA  evento realizado pela escola de cursos qazando.com.br 100% onine e 100% Gratuito que ocorreu no periodo de 3 horas em Agosto de 2025 [Webnario QA Com IA 100% Gratuito](https://github.com/pedrojunior079/certificados/blob/main/Webnario-QA-Com-IA-certificado.pdf)  com certificado   
+ - :computer: WEBINARIO QA COM IA  evento realizado pela escola de cursos qazando.com.br 100% onine e 100% Gratuito que ocorreu no periodo de 3 horas em Agosto de 2025 [Webnario QA Com IA 100% Gratuito](https://github.com/pedrojunior079/certificados/blob/main/Webnario-QA-Com-IA-certificado.pdf)  com certificado
+ - 💻 Intensivão Javascript evento realizado pelo site hastag treinamentos (https://www.hashtagtreinamentos.com/) de forma que ocorreu entre os dias 13 a 16 de outubro de 2025 100% online e 100% gratuito com certificação (https://github.com/pedrojunior079/certificados/blob/main/IntensivaoJavaScriptHashtCertificado.pdf)
     
  - :page_with_curl: Meu Blog [https://techprogramacao.blogspot.com/](https://techprogramacao.blogspot.com/)
 
